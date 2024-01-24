@@ -1,2 +1,2 @@
 # bookbot-tut
-boot.dev "bookbot" task
+Warmup project on boot.dev.
